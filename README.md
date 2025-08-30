@@ -13,8 +13,8 @@ Here are some ideas:
 <!--
 This is so sigma
 -->
-| Woah | OTne|
-|:-----|   ---:        |
-|     1|       large        |
+| Thing i can do | Thing in question |
+|:-----:|   ---        |
+|     1|       piping /|        |
 |     2|    poo           |
 |     3|               |
