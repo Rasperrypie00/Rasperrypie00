@@ -21,8 +21,8 @@ This is so sigma
 
 -Man who definitely only say sensible things only (lie)
 </details>
-| Thing i can do | Thing in question |
-|:-----:|   ---        |
+| Thing i can do | The hing in question |
+|:-----:|   -----------        |
 |     One|   Lua (Aw man)   |
 |     2|    Art (mediocre)         |
-|     III|     English (duh) (also VIE)          |
+|     III|     English (duh)          |
