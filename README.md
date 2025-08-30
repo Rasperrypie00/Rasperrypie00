@@ -15,14 +15,14 @@ This is so sigma
 -->
 <details>
 <summary>Thing i can do</summary>
-| Thing i can do | Thing in question |
-|:-----:|   ---        |
-|     One|   Lua (Aw man)   |
-|     2|    Art (mediocre)         |
-|     III|     English (duh) (also VIE)          |
 
 ---
 > Người có cánh là một cá thể thích ăn đồ ăn nhanh
 
 -Man who definitely only say sensible things only (lie)
 </details>
+| Thing i can do | Thing in question |
+|:-----:|   ---        |
+|     One|   Lua (Aw man)   |
+|     2|    Art (mediocre)         |
+|     III|     English (duh) (also VIE)          |
