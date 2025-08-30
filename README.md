@@ -18,9 +18,9 @@ This is so sigma
 
 | Thing i can do | The Thing in question |
 |-----:|-----------|
-|     1| Lua (awh man) |
+|     One| Lua (awh man) |
 |     2| Art (mediocre)   |
-|     3|    ~~weird and quirky~~ I exist    |
+|     III|    ~~weird and quirky~~ I exist    |
 
 
 
@@ -29,7 +29,8 @@ This is so sigma
 <details>
 <summary>Not important information</summary>
 
-> Big sus is the one who will say the world
+
+> Big sus is the one who will save the world
 
 -Obama
 
