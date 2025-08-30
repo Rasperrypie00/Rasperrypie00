@@ -13,8 +13,8 @@ Here are some ideas:
 <!--
 This is so sigma
 -->
-| RanRk | OTne|
-|-----|   -        |
-|     1|               |
+| Woah | OTne|
+|:-----|   ---:        |
+|     1|       large        |
 |     2|    poo           |
 |     3|               |
