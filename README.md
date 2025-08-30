@@ -14,7 +14,7 @@ Here are some ideas:
 This is so sigma
 -->
 | RanRk | OTne|
-|-----:|---------------|
+|-----:|-|
 |     1|               |
 |     2|    poo           |
 |     3|               |
