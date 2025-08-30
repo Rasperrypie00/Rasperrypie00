@@ -15,6 +15,6 @@ This is so sigma
 -->
 | Thing i can do | Thing in question |
 |:-----:|   ---        |
-|     1|       piping \|        | e |
-|     2|    poo           |
-|     3|               |
+|     One|   Lua (Aw man)   |
+|     2|    Art (mediocre)         |
+|     III|     English (duh (also VIE))          |
