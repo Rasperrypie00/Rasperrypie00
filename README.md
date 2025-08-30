@@ -11,4 +11,10 @@ Here are some ideas:
 - 😄 Pronouns: silly-little-guy/evil-demon
 - ⚡ Fun fact: I don't know what i'm doing  (YET :3)
 <!--
+This is so sigma
 -->
+| RanRk | OTne|
+|-----:|---------------|
+|     1|               |
+|     2|    poo           |
+|     3|               |
